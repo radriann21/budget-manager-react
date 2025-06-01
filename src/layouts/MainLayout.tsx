@@ -8,7 +8,6 @@ export const MainLayout = () => {
       as="main"
       minH="100vh"
       maxW="100%"
-      gap={4}
       templateColumns="repeat(6, 1fr)"
       templateRows="repeat(3, 1fr)"
       bgColor="mainBg"

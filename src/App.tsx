@@ -1,8 +1,8 @@
-import { Heading } from "@chakra-ui/react"
+import { AppRoutes } from "./routes/AppRoutes"
 
-function App() {
+const App = () => {
   return (
-    <Heading>hello world</Heading>
+    <AppRoutes />
   )
 }
 
